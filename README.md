@@ -47,7 +47,7 @@ The following endpoints are available:
 
 ## Cleanup
 To stop and remove the Docker containers and networks, use:
-        ```bash
+        
         docker-compose down
 
 
