@@ -29,7 +29,7 @@ To set up and run the Spring Boot CRUD Students API using Docker Compose, follow
 2. Clone this repository:
 
     ```bash
-    docker-compose up --build
+    docker compose up --build
 
 This will create Docker containers for the Spring Boot application and a PostgreSQL database.
 
@@ -48,7 +48,7 @@ The following endpoints are available:
 ## Cleanup
 To stop and remove the Docker containers and networks, use:
         
-        docker-compose down
+        docker compose down
 
 
 
